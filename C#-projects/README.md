@@ -68,17 +68,17 @@ bash
 ## 🛠 Project Ideas to Get You Started
 Not sure what to contribute? Here are some ideas:
 
-- A calculator app or game.
-- Data analysis scripts using Pandas or Numpy.
-- Web scraping tools.
-- Machine learning mini-projects.
-- Automation scripts for everyday tasks.
+- A simple calculator application.
+- A to-do list app with a graphical user interface (GUI).
+- A text-based game (e.g., Tic-Tac-Toe, Snake).
+- Implementing basic data structures (linked list, stack, queue).
+- Command-line tools for file operations.
 
-markdown
+---
 
 ## 🌟 Why Contribute?
 
-By sharing your Python projects here, you can:
+By sharing your C# projects here, you can:
 
 - Improve your coding skills through community feedback.
 - Help others learn from your work.
